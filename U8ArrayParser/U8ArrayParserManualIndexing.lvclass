@@ -26,7 +26,7 @@
 	<Item Name="U8ArrayParserManualIndexing.ctl" Type="Class Private Data" URL="U8ArrayParserManualIndexing.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Private" Type="Folder">
+	<Item Name="PrivateMethods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="getDataSubset.vi" Type="VI" URL="../getDataSubset.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)#!!!!$Q"A1(!!(A!!.R&amp;36&amp;6U;7RJ&gt;'FF=SZM&gt;GRJ9C.6/%&amp;S=G&amp;Z5'&amp;S=W6S47&amp;O&gt;7&amp;M37ZE:8BJ&lt;G=O&lt;(:D&lt;'&amp;T=Q!?64B"=H*B?6"B=H.F=EVB&lt;H6B&lt;%FO:'6Y;7ZH)'FO!!!%!!!!9%"Q!"Y!!$=25F26&gt;'FM;82J:8-O&lt;(:M;7)D64B"=H*B?6"B=H.F=EVB&lt;H6B&lt;%FO:'6Y;7ZH,GRW9WRB=X-!(V5Y18*S98F198*T:8*.97ZV97R*&lt;G2F?'FO:S"P&gt;81!$5!$!!:-:7ZH&gt;'A!!!V!"1!(4H6N:8*J9Q!31%!!!@````]!"!2%982B!!!,1!-!"5FO:'6Y!!^!!Q!*37ZE:8AA&lt;X6U!":!)2&amp;0&gt;G6S=GFE:6.X98"#?82F=Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!*!!I!#R.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!5!!$!!E!#A!,#76S=G^S)'^V&gt;!"^!0!!%!!!!!%!!1!"!!)!!Q!&amp;!!9!"Q!)!!%!$!!"!!%!!1!.!A!"#!!!%!!!!!!!!!!!!!!!!!!!!!U!!!!)!!!!#1!!!!I!!!!."Q!!#!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!$1M!%1!!!!!"!!!!!!!!!!!!!!!!!!%!$A!!!!!</Property>
@@ -38,7 +38,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 		</Item>
 	</Item>
-	<Item Name="Public" Type="Folder">
+	<Item Name="PublicMethods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="parse.vi" Type="VI" URL="../parse.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'X!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!'"!=!!?!!!X%6*5682J&lt;'FU;76T,GRW&lt;'FC)V5Y18*S98F198*T:8*.97ZV97R*&lt;G2F?'FO:SZM&gt;G.M98.T!"^6/%&amp;S=G&amp;Z5'&amp;S=W6S47&amp;O&gt;7&amp;M37ZE:8BJ&lt;G=A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!$E!B#6.X98"#?82F=Q!.1!5!"UZV&lt;76S;7-!%E"!!!(`````!!A%2'&amp;U91!!9%"Q!"Y!!$=25F26&gt;'FM;82J:8-O&lt;(:M;7)D64B"=H*B?6"B=H.F=EVB&lt;H6B&lt;%FO:'6Y;7ZH,GRW9WRB=X-!(F5Y18*S98F198*T:8*.97ZV97R*&lt;G2F?'FO:S"J&lt;A!!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!*!!I#!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!!)!!!##!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#Q!!!!!</Property>

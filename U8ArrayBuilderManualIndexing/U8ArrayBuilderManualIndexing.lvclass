@@ -26,7 +26,7 @@
 	<Item Name="U8ArrayBuilderManualIndexing.ctl" Type="Class Private Data" URL="U8ArrayBuilderManualIndexing.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Private" Type="Folder">
+	<Item Name="PrivateMethods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="addData.vi" Type="VI" URL="../addData.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(\!!!!$A"C1(!!(A!!/"&amp;36&amp;6U;7RJ&gt;'FF=SZM&gt;GRJ9C26/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH,GRW9WRB=X-!!"^6/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH)'FO!!1!!!"E1(!!(A!!/"&amp;36&amp;6U;7RJ&gt;'FF=SZM&gt;GRJ9C26/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH,GRW9WRB=X-!!#"6/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH)'^V&gt;!!!$5!&amp;!!&gt;/&gt;7VF=GFD!"*!1!!"`````Q!$"%2B&gt;'%!!!^!!Q!*37ZE:8AA&lt;X6U!!N!!Q!&amp;37ZE:8A!&amp;E!B%5^W:8*S;72F5X&gt;B=%*Z&gt;'6T!!R!)1:T&gt;'&amp;U&gt;8-!!!N!!Q!%9W^E:1!!%%!Q`````Q:T&lt;X6S9W5!!#"!5!!$!!A!#1!+%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!&amp;E"1!!-!#!!*!!I*:8*S&lt;X)A&lt;X6U!(U!]!!1!!!!!1!"!!%!!A!%!!5!"A!"!!=!!1!,!!%!!1!"!!Q#!!%)!!!3!!!!!!!!!!!!!!!!!!!!$1!!!AA!!!!."Q!!#A!!!!!!!!!)!!!!!!!!!!A!!!!!!!!!!!!!!!!!!!!.#Q!2!!!!!!%!!!!!!!!!!!!!!!!!!1!.!!!!!!</Property>
@@ -38,7 +38,7 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 		</Item>
 	</Item>
-	<Item Name="Public" Type="Folder">
+	<Item Name="PublicMethods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="addDataDBL.vi" Type="VI" URL="../addDataDBL.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!(H!!!!$1"C1(!!(A!!/"&amp;36&amp;6U;7RJ&gt;'FF=SZM&gt;GRJ9C26/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH,GRW9WRB=X-!!"^6/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH)'FO!!1!!!"E1(!!(A!!/"&amp;36&amp;6U;7RJ&gt;'FF=SZM&gt;GRJ9C26/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH,GRW9WRB=X-!!#"6/%&amp;S=G&amp;Z1H6J&lt;'2F=EVB&lt;H6B&lt;%FO:'6Y;7ZH)'^V&gt;!!!#U!+!!2%982B!!!,1!-!"5FO:'6Y!!^!!Q!*37ZE:8AA&lt;X6U!":!)2&amp;0&gt;G6S=GFE:6.X98"#?82F=Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!A1&amp;!!!Q!(!!A!#2.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!":!5!!$!!=!#!!*#76S=G^S)'^V&gt;!"^!0!!%!!!!!%!!1!"!!)!!Q!"!!1!"1!'!!%!#A!"!!%!!1!,!A!"#!!!%A!!!!!!!!!!!!!!!!!!!!U!!!!)!!!!!!!!!!I!!!!."Q!!#!!!!!!!!!!)!!!!!!!!!!!!!!!!!!!!$1M!%1!!!!!"!!!!!!!!!!!!!!!!!!%!$!!!!!!</Property>

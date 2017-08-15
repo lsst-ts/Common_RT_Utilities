@@ -26,7 +26,7 @@
 	<Item Name="CRC16.ctl" Type="Class Private Data" URL="CRC16.ctl">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
-	<Item Name="Public" Type="Folder">
+	<Item Name="PublicMethods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="calculate.vi" Type="VI" URL="../calculate.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;A#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;=!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!F!"A!$1V*$!$2!=!!?!!!B%6*5682J&lt;'FU;76T,GRW&lt;'FC$5.31T%W,GRW9WRB=X-!#5.31T%W)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!!^!"1!)2H6O9X2J&lt;WY!!"*!1!!"`````Q!)"%2B&gt;'%!!$2!=!!?!!!B%6*5682J&lt;'FU;76T,GRW&lt;'FC$5.31T%W,GRW9WRB=X-!#%.31T%W)'FO!!"B!0!!$!!$!!1!"1!'!!1!"!!%!!1!"Q!%!!E!#A-!!(A!!!5)!!!!!!!!#1!!!!5,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)1!!!!!!!!$1!!!!Q!!!!!!!!!!!!!!1!,!!!!!!</Property>
